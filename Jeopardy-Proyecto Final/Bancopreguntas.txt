@@ -1,0 +1,200 @@
+Historia Mundial
+100
+En que ano comenzo la Primera Guerra Mundial?
+1914
+1918
+1939
+1945
+1
+Historia Mundial
+250
+En que ano termino la Segunda Guerra Mundial?
+1948
+1945
+1950
+1955
+2
+Historia Mundial
+500
+¿En que ano se produjo la Revolucion Francesa?
+1792
+1798
+1789
+1804
+3
+Historia Mundial
+750
+En que ano se produjo la Revolucion Rusa?
+1920
+1923
+1926
+1917
+4
+Historia Mundial
+1000
+En que ano se fundo la Organizacion de las Naciones Unidas (ONU)?
+1945
+1948
+1950
+1955
+1
+Musica
+100
+Que banda de rock britanica lanzo el album "The Wall" en 1979?
+Pink Floyd
+Led Zeppelin
+The Beatles
+The Rolling Stones
+1
+Musica
+250
+Que cantante estadounidense es conocido como el "Rey del Pop"?
+Elvis Presley
+Michael Jackson
+Frank Sinatra
+Prince
+2
+Musica
+500
+Que banda de rock estadounidense lanzo el album "Appetite for Destruction" en 1987?
+Aerosmith
+Van Halen
+Guns N' Roses
+Bon Jovi
+3
+Musica
+750
+Que cantante britanico es conocido como el "Rey del Reggaeton"?
+Sean Paul
+Shaggy
+Sting
+Daddy Yankee
+4
+Musica
+1000
+Que cantante estadounidense es conocido como la "Reina del Soul"?
+Aretha Franklin
+Whitney Houston
+Mariah Carey
+Tina Turner
+1
+Peliculas
+100
+Quien dirigio la pelicula "El Padrino"?
+Francis Ford Coppola
+Martin Scorsese
+Steven Spielberg
+Quentin Tarantino
+1
+Peliculas
+250
+Quien protagonizo la pelicula "Forrest Gump"?
+Robert De Niro
+Tom Hanks
+Al Pacino
+Dustin Hoffman
+2
+Peliculas
+500
+Quien dirigio la pelicula "Titanic"?
+Steven Spielberg
+Martin Scorsese
+James Cameron
+Quentin Tarantino
+3
+Peliculas
+750
+Quien protagonizo la pelicula "El Senor de los Anillos: La Comunidad del Anillo"?
+Viggo Mortensen
+Ian McKellen
+Sean Astin
+Elijah Wood
+4
+Peliculas
+1000
+Quien dirigio la pelicula "La Lista de Schindler"?
+Steven Spielberg
+Martin Scorsese
+Francis Ford Coppola
+Quentin Tarantino
+1
+Cultura General
+100
+Cual es el pais mas grande del mundo por area terrestre?
+Rusia
+China
+Estados Unidos
+Canada
+1
+Cultura General
+250
+Cual es el oceano mas grande del mundo?
+Atlantico
+Pacifico
+Indico
+Antartico
+2
+Cultura General
+500
+Cual es el rio mas largo del mundo?
+Amazonas
+Yangtze
+Nilo
+Misisipi
+3
+Cultura General
+750
+Cual es el desierto mas grande del mundo?
+Gobi
+Kalahari
+Antartico
+Sahara
+4
+Cultura General
+1000
+Cual es el pais mas poblado del mundo?
+China
+India
+Estados Unidos
+Brasil
+1
+Deportes
+100
+En que ano se celebro la primera Copa Mundial de Futbol?
+1930
+1950
+1970
+1990
+1
+Deportes
+250
+Que equipo de futbol gano la Liga de Campeones de la UEFA en 2021?
+Manchester City
+Chelsea
+Real Madrid
+Barcelona
+2
+Deportes
+500
+Quien es el maximo goleador de la historia de la Liga Espanola de Futbol?
+Cristiano Ronaldo
+Telmo Zarra
+Lionel Messi
+Hugo Sanchez
+3
+Deportes
+750
+En que ano se celebraron los Juegos Olimpicos de Tokio?
+1964
+1988
+2000
+2020
+4
+Deportes
+1000
+Que equipo de futbol gano la Copa America en 2021?
+Argentina
+Brazil
+Paraguay
+Mexico
+1
